@@ -4,8 +4,6 @@
 #include "binary_trees.h"
 
 
-/* Original code from http://stackoverflow.com/a/13755911/5184480 */
-
 /**
  * print_t - to Store recursively each level in an array of strings
  *
